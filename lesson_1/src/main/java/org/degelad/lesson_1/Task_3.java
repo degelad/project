@@ -1,7 +1,9 @@
 package org.degelad.lesson_1;
 
 /**
- *
+ * Написать метод, вычисляющий выражение a * (b + (c / d)) и возвращающий
+ * результат,
+ * где a, b, c, d – аргументы этого метода, имеющие тип float.
  * @author degelad
  */
 public class Task_3 {

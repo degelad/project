@@ -1,7 +1,8 @@
 package org.degelad.lesson_1;
 
 /**
- *
+ * Создать переменные всех пройденных типов данных и инициализировать их
+ * значения.
  * @author degelad
  */
 public class Task_2 {
